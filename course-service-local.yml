@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/course-service
+    url: jdbc:mysql://localhost:3306/atenea-courses
     username: "root"
     password: "1234"
   jpa:
